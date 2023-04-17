@@ -149,13 +149,13 @@ p{
   margin-top: 40px;
 }
 .content-col{
-  width: 30%;
+  width: 40%;
 }
 .image-col{
-  width: 70%;
+  width: 60%;
 }
 .tours .row .col{
-  width: 40%;
+  width: 42%;
 }
 .tours .image-gallery{
   display: flex;
