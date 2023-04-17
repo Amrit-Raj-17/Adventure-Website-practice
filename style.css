@@ -149,18 +149,18 @@ p{
   margin-top: 40px;
 }
 .content-col{
-  width: 40%;
+  width: 30%;
 }
 .image-col{
-  width: 60%;
+  width: 70%;
 }
 .tours .row .col{
-  width: 50%;
+  width: 40%;
 }
 .tours .image-gallery{
   display: flex;
   flex-wrap: wrap;
-  width: 100%;
+  width: 160%;
   align-items: center;
 }
 .image-gallery img{
